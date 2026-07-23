@@ -1,4 +1,4 @@
-# Parámetros Técnicos: Soldadura Láser de Fibra Óptica (Precisión)
+# Parámetros Técnicos: Soldadura Láser de Fibra (Precisión)
 
 Este documento expone nuestras configuraciones de referencia para minimizar la Zona Afectada por el Calor (ZAT) en piezas de espesor fino, tuberías de escape y uniones complejas.
 
